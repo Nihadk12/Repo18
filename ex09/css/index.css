@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav ul li a{
+    list-style: none;
+    font-size: 30px;
+    position: relative;
+    margin-left: 500px;
+}
+header .container {
+    background-color:#242424;
+    width: 100%;
+    height: 130px;
+    text-align:right;
+    display: flex;
+    list-style: none;
+}
+header .container {
+    
+}
+#branding {
+    padding: 50px;
+    font-size: 25px;
+    margin-left:220px ;
+    color: white;
+}
+.highlight {
+    color: orange;
+    text-align: left;
+}
+h1 {
+    font-size: 35px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#showcase p {
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#newslatter form input {
+    align-items: center;
+    display: flex;
+}
+#html-logo img {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
